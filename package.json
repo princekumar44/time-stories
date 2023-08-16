@@ -1,0 +1,16 @@
+{
+  "name": "stories",
+  "version": "1.0.0",
+  "description": "To fetch stories from time.com",
+  "type": "module",
+  "main": "controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^22.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
